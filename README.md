@@ -2,7 +2,7 @@
 
 Repository terpisah untuk aplikasi WAOCA.
 
-- Source aplikasi WAOCA
+- Source aplikasi WAOCA dengan Tekomsel dan Meta
 - konfigurasi server yang disanitasi
 - installer database
 - panduan instalasi
